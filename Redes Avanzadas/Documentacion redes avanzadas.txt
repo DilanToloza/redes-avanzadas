@@ -1,0 +1,135 @@
+-----------------------------------------------------------
+CAMPUS UNO
+-----------------------------------------------------------
+server 0
+Direccion IP: 172.16.34.138
+Vlan configurada: VLAN 40
+Servicio de red: HTTP, TFTP, DNS, SYSLOG, NTP, EMAIL, FTP
+Capa a la que pertenece: Capa de aplicacion
+Campus o sucursal: Campus uno, Sucursal oriente
+----------------------------------------------------------
+Laptop procesos 
+Direccion: 172.16.33.20  
+Vlan configurada: VLAN 20
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus uno, Sucursal oriente
+----------------------------------------------------------
+Impresora
+Direccion: 172.16.34.161
+Vlan configurada: VLAN 50
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso
+Campus o sucursal: Campus uno, Sucursal oriente
+----------------------------------------------------------
+SWITCH 0
+Direccion: NO APLICA 
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: Campus uno, Sucursal oriente
+----------------------------------------------------------
+SWITCH MULTICAPA
+Direccion: 172.16.34.170
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion
+Campus o sucursal: Campus uno, Sucursal oriente
+----------------------------------------------------------
+ROUTER ORIENTE
+Direccion: 172.16.34.169
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso
+Campus o sucursal: Sucursal oriente
+----------------------------------------------------------
+CAMPUS MATRIZ
+----------------------------------------------------------
+ROUTER MATRIZ
+Direccion IP: 172.16.32.1
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+SWITCH 3
+Direccion: NO APLICA 
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+SWITCH 4
+Direccion: NO APLICA 
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+SWITCH 5
+Direccion: NO APLICA 
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+PC Ventas
+Direccion: 172.16.32.10  
+Vlan configurada: VLAN 10
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+PC Ventas2 
+Direccion: 172.16.33.11  
+Vlan configurada: VLAN 10
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+PC Finanzas
+Direccion: 172.16.34.10  
+Vlan configurada: VLAN 30
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+PC Procesos
+Direccion: 172.16.33.10  
+Vlan configurada: VLAN 20
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus MATRIZ
+----------------------------------------------------------
+DUAL STACK
+----------------------------------------------------------
+server 1
+Direccion IP: 190.190.190.10 - acad:de:fe:30::/64 
+Vlan configurada: NO APLICA
+Servicio de red: HTTP, DHCP, TFTP, FTP
+Capa a la que pertenece: Capa de aplicacion
+Campus o sucursal: DUAL STACK
+----------------------------------------------------------
+Laptop0
+Direccion: 190.190.190.20 - acad:de:fe:30::/64 
+Vlan configurada: NO APLICA
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso
+Campus o sucursal: DUAL STACK
+----------------------------------------------------------
+SECTOR OUTSOURCING
+----------------------------------------------------------
+SWITCH RRHH
+Direccion: acad:de:fe:20::/64 
+Vlan configurada: NO APLICA
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: SECTOR OUTSOURCING
+----------------------------------------------------------
+SWITCH RRPP
+Direccion: acad:de:fe:10::/64  
+Vlan configurada: NO APLICA
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: SECTOR OUTSOURCING
+----------------------------------------------------------
