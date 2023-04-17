@@ -1,0 +1,7 @@
+nombre,campus,tipo,ip,mascara,Vlan,modelo jerarquico,red comprometido
+server 0,campus_uno,server,172.16.34.138,255.255.255.252,40,capa de aplicacion,"HTTP, TFTP, DNS, SYSLOG, NTP, EMAIL, FTP"
+laptop procesos,campus_uno,dispositivo final,172.16.33.20,255.255.255.252,20,capa de acceso,NO APLICA
+impresora,campus_uno,impresora,172.16.34.161,255.255.255.252,50,capa de acceso,NO APLICA
+switch 0,campus_uno,switch,NO APLICA,255.255.255.252,"20, 40, 50, 80",capa de distribucion,NO APLICA
+switch multicapa,campus_uno,switch,172.16.34.170,255.255.255.252,"20, 40, 50, 80",capa de distribucion,NO APLICA
+router oriente,campus_uno,router,172.16.34.169,255.255.255.252,"20, 40, 50, 80",capa de acceso,NO APLICA
